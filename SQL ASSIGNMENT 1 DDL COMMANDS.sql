@@ -17,11 +17,11 @@ select * from student;
 alter table student drop column grade;
 select * from student;
 
-alter table student rename classten;
-select * from student;
+alter table student rename to classten;
+select * from classten;
 
-truncate table student;
-select * from student ;
+truncate table classten;
+select * from classten ;
 
-drop table student;
-select * from student;
+drop table classten;
+select * from classten;
