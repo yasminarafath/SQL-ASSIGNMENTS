@@ -11,7 +11,7 @@ insert into student(roll_no,name,marks,grade)
 values(1,'jhon',52,'B');
 select * from student;
 
-alter table student add column contact int;
+alter table student add column contact bigint;
 select * from student;
 
 alter table student drop column grade;
