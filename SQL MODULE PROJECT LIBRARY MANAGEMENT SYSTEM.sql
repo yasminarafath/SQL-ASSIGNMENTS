@@ -202,5 +202,3 @@ FROM customer c
 JOIN issuestatus i ON c.Customer_Id = i.Issued_cust
 JOIN books b ON i.Isbn_book = b.ISBN
 WHERE b.Rental_Price > 25;
-
-drop database library;
