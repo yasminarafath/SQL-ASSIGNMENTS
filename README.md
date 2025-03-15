@@ -1,0 +1,19 @@
+Assignment 1 : Successfully created the Student table inserted sample data into it and performed all the DDL commands.
+
+Assignment 2: Successfully created the Sales_orders table with constraints using DDL commands and inserted sample data into it and performed the DML commands.
+
+Assignment 3: A simple SQL assignment to create and manage a database of managers, including their personal details, department, and salary information. This project demonstrates basic SQL operations such as table creation, data insertion, and querying.
+
+Assignment 4: This assignmnet involves creating and populating Country and Persons tables, and executing various SQL queries to retrieve specific information such as distinct country names, persons with high ratings, and countries with significant populations.
+
+Assignment 5: This assignment involves creating and managing two tables, Country and Persons, in a region database. The goal is to perform various SQL operations on these tables, including data insertion, querying, and manipulation.
+
+Assignment 6: The assignment involves performing SQL joins, listing distinct and all country names, and rounding ratings in the Persons table. These steps help manipulate and retrieve data in the desired format.
+
+Assignment 7: This assignment involves adding new coulmn as DOB to the Persons table, create a user defind function to calculate age from DOB, and write a query to fetch ages. Additionally have to check the country names length and extract the first three characters.Then, convert country names to uppercase and lowercase in the Country table.
+
+Assignment 8: This assignment involves analyzing the Country and Persons tables with SQL queries, and creating a Customer table in the Product database, generating views, updating data, and writing queries to manage and analyze customer information.
+
+Assignment 9: This assignment involves creating and invoking stored procedures for the Worker table. Tasks include adding new records, retrieving worker salaries, updating departments, counting workers in a department, and calculating average salaries by department.
+
+Assignment 10: The teachers table is created with fields for id, name, subject, experience, and salary, and 8 rows are inserted. Created a log table with fields teacher_id,Action and timestamp.Triggers handle conditions for salary, logging, and experience constraints.
